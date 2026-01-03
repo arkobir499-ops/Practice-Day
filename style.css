@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.main-part{
+    background-color: #1fddd4;
+    height: 50px;
+}
+
+.img-part img{
+    height: 50px;
+}
+
+.img-part{
+    float: left;
+    width: 55%;
+}
+
+.menu-part{
+    float: left;
+    width: 45%;
+}
+
+.menu-part ul li{
+    float: left;
+    list-style-type: none;
+    padding: 12px;
+}
+
+.header-part{
+    width: 70%;
+    margin: auto;
+}
